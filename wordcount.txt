@@ -1,2 +1,9 @@
-Decision tree is a kind of machine learning method. Decision tree is a machine learning method. It has a tree structure in which each internal node represents a judgment on an attribute, each branch represents an output of the judgment, and finally each leaf node represents a classification result.
-Decision tree is a very common classification method which is a kind of supervised learning. Supervised learning is giving a bunch of samples, each sample has a set of attributes and a classification result, i.e., the classification result is known, then learning these samples yields a decision tree that gives the correct classification for the new data.
+Decision tree is a kind of machine learning method.
+Decision tree is a machine learning method.
+It has a tree structure in which each internal node represents a judgment on an attribute, each branch represents an output of the judgment, and finally each leaf node represents a classification result.
+Decision tree is a very common classification method which is a kind of supervised learning.
+Supervised learning is giving a bunch of samples, each sample has a set of attributes and a classification result, i.e., the classification result is known, then learning these samples yields a decision tree that gives the correct classification for the new data.
+In the classification process, we use "entropy value" as an indicator.
+The entropy value can represent the degree of confusion of a set of data.
+A higher entropy value means that the set of data is more confusing, which means that it contains more different types of data.
+The minimization of entropy is actually the process of improving the correct rate of classification.
